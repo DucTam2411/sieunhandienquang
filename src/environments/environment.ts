@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  serverURL: 'http://localhost:3636/api/'
+  serverURL: "https://sieunhandienquang-1.herokuapp.com/",
 };
 
 /*
